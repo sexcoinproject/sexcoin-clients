@@ -16,9 +16,9 @@ The Sexcoin-QT Windows binaries in this release are all inclusive and should
 NOT require any dependencies. The binaries were build on a 32-bit architecture
 but testing shows it runs fine on 64-bit systems as well. 
 
-Linux 32-bit and 64-bit
+Linux 64-bit
 -----------------------
-Both binaries (sexcoin-qt and sexcoind) were built on Ubuntu 12.04 LTS. The 
+Linux binaries (sexcoin-qt and sexcoind) were built on Ubuntu 12.04 LTS. The 
 dependency requirements are listed below. These binaries should run fine on 
 older releases of Ubuntu, however they were only tested on 12.04 LTS with the
 specific library versions of ...
@@ -37,3 +37,13 @@ or our bitcointalk thread,
 https://bitcointalk.org/index.php?topic=252896.msg2689850#msg2689850
 
 https://launchpad.net/~bitcoin/+archive/bitcoin
+
+
+Suse
+----
+
+PC has put together Suse builds. You can get them here:
+https://build.opensuse.org/package/show/home:p_conrad:coins/sexcoin
+
+
+There will be more Linux pre-build coming soon.
