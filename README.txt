@@ -17,10 +17,3 @@ Sexcoin forum user pc has put together OpenSuse, Debian, Fedora, Ubuntu, Centos,
 and other builds. You can get them here:
 
    https://build.opensuse.org/package/show/home:p_conrad:coins/sexcoin
-
-
-
-You will probably find lots of help on sexcoinforum.org 
-or our bitcointalk thread:
-
-   https://bitcointalk.org/index.php?topic=252896.msg2689850#msg2689850
