@@ -7,43 +7,20 @@ This product includes software developed by the OpenSSL Project for use in
 the OpenSSL Toolkit (http://www.openssl.org/).
 
 
-Sexcoin QT Clients v0.6.4.1-RC1-beta
-================================
+Windows and OSX Binaries are available here:
 
-Windows
--------
-The Sexcoin-QT Windows binaries in this release are all inclusive and should
-NOT require any dependencies. The binaries were build on a 32-bit architecture
-but testing shows it runs fine on 64-bit systems as well. 
+   http://sex-coin.info/
 
-Linux 64-bit
------------------------
-Linux binaries (sexcoin-qt and sexcoind) were built on Ubuntu 12.04 LTS. The 
-dependency requirements are listed below. These binaries should run fine on 
-older releases of Ubuntu, however they were only tested on 12.04 LTS with the
-specific library versions of ...
 
-Boost v1.48
-Berkeley DB v4.8
-OpenSSL v1.0.1c
 
-*If you are having problems getting libdb4.8 to install due to it not being
-included in the 12.04 release, please see the following site which is used
-for the Bitcoin-QT builds. The needed libs are provided for most current
-Ubuntu releases as well as 12.04.
+Sexcoin forum user pc has put together OpenSuse, Debian, Fedora, Ubuntu, Centos,
+and other builds. You can get them here:
+
+   https://build.opensuse.org/package/show/home:p_conrad:coins/sexcoin
+
+
 
 You will probably find lots of help on sexcoinforum.org 
-or our bitcointalk thread,
-https://bitcointalk.org/index.php?topic=252896.msg2689850#msg2689850
+or our bitcointalk thread:
 
-https://launchpad.net/~bitcoin/+archive/bitcoin
-
-
-Suse
-----
-
-PC has put together Suse builds. You can get them here:
-https://build.opensuse.org/package/show/home:p_conrad:coins/sexcoin
-
-
-There will be more Linux pre-build coming soon.
+   https://bitcointalk.org/index.php?topic=252896.msg2689850#msg2689850
